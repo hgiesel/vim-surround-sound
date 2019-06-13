@@ -1,2 +1,3 @@
-# vim-surround-sound
+# surround-sound.nvim
+
 An addon to vim-motion-sickness
